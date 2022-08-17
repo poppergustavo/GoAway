@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.hub_navbar{
+    position: fixed;
+    width: 100%;
+    height: 6%;
+    background: #242424;
+    color: aliceblue;
+}
+
+.hub_main{
+    position: fixed;
+    display: flex;
+    height: 92%;
+    width: 100%;
+    top: 6%;
+    bottom: 2%;
+    background: #D9D9D9;
+} 
+
+.side_menu{
+    height: 100%;
+    width: 5%;
+    background: #2b3a3b;
+    transition: 2s;
+    cursor: pointer;
+}
+
+.side_menu:hover{
+    height: 100%;
+    width: 20%;
+    background: #2b3a3b;
+    transition: 1s;
+}
+
+.main_content{
+    margin: 2%;
+    width: 95%;
+    background: #fffeea;
+}
+
+.hub_footer{
+    position: fixed;
+    width: 100%;
+    height: 2%;
+    bottom: 0;
+    background: #242424;
+    color: aliceblue;
+}
