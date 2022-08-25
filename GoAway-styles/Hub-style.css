@@ -36,7 +36,6 @@
     transition: 1s;
 }
 
-
 .main_content{
     margin: 2%;
     width: 95%;
@@ -50,4 +49,111 @@
     bottom: 0;
     background: #242424;
     color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* BUTTONS */
+.plan_btn {
+    font-size:15px;
+    font-family:Arial;
+    width: 40px;
+    height:30px;
+    border-width:1px;
+    color:rgba(0, 0, 0, 1);
+    border-color:rgba(255, 254, 234, 1);
+    font-weight:bold;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    background:rgba(255, 254, 234, 1);
+    transition: 0.2s;
+    display: block;
+}  .plan_btn:hover {
+    background: rgb(224, 219, 129);
+    width: 180px;
+    height: 50px;
+    transition: 0.2s;
+    display: block;
+}
+
+.planned_btn{
+    font-size:15px;
+    font-family:Arial;
+    width: 40px;
+    height:30px;
+    border-width:1px;
+    color:rgba(0, 0, 0, 1);
+    border-color:rgba(255, 254, 234, 1);
+    font-weight:bold;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    background:rgba(255, 254, 234, 1);
+    transition: 0.2s;
+    display: block;
+}  .planned_btn:hover {
+    background: rgb(224, 219, 129);
+    width: 180px;
+    height: 50px;
+    transition: 0.2s;
+    display: block;
+}
+
+.discover_btn{
+    font-size:15px;
+    font-family:Arial;
+    width: 40px;
+    height:30px;
+    border-width:1px;
+    color:rgba(0, 0, 0, 1);
+    border-color:rgba(255, 254, 234, 1);
+    font-weight:bold;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    background:rgba(255, 254, 234, 1);
+    transition: 0.2s;
+    display: block;
+}  .discover_btn:hover {
+    background: rgb(224, 219, 129);
+    width: 180px;
+    height: 50px;
+    transition: 0.2s;
+    display: block;
+}
+
+.options_btn{
+    font-size:15px;
+    font-family:Arial;
+    width: 40px;
+    height:30px;
+    border-width:1px;
+    color:rgba(0, 0, 0, 1);
+    border-color:rgba(255, 254, 234, 1);
+    font-weight:bold;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    background:rgba(255, 254, 234, 1);
+    transition: 0.2s;
+    display: block;
+}  .options_btn:hover {
+    background: rgb(224, 219, 129);
+    width: 180px;
+    height: 50px;
+    transition: 0.2s;
+    display: block;
 }
