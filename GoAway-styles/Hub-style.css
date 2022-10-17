@@ -62,98 +62,63 @@
 
 
 /* BUTTONS */
+
 .plan_btn {
-    font-size:15px;
-    font-family:Arial;
-    width: 40px;
-    height:30px;
-    border-width:1px;
+    display:block;
+    padding:0.35em 1.2em;
+    border:0.1em solid rgba(255, 254, 234, 1);
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
     color:rgba(0, 0, 0, 1);
-    border-color:rgba(255, 254, 234, 1);
-    font-weight:bold;
-    border-top-left-radius:8px;
-    border-top-right-radius:8px;
-    border-bottom-left-radius:8px;
-    border-bottom-right-radius:8px;
-    background:rgba(255, 254, 234, 1);
-    transition: 0.2s;
-    display: block;
-}  .plan_btn:hover {
-    background: rgb(224, 219, 129);
-    width: 180px;
-    height: 50px;
-    transition: 0.2s;
-    display: block;
+    text-align:center;
+    transition: all 0.2s;
 }
 
 .planned_btn{
-    font-size:15px;
-    font-family:Arial;
-    width: 40px;
-    height:30px;
-    border-width:1px;
+    display:block;
+    padding:0.35em 1.2em;
+    border:0.1em solid rgba(255, 254, 234, 1);
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
     color:rgba(0, 0, 0, 1);
-    border-color:rgba(255, 254, 234, 1);
-    font-weight:bold;
-    border-top-left-radius:8px;
-    border-top-right-radius:8px;
-    border-bottom-left-radius:8px;
-    border-bottom-right-radius:8px;
-    background:rgba(255, 254, 234, 1);
-    transition: 0.2s;
-    display: block;
-}  .planned_btn:hover {
-    background: rgb(224, 219, 129);
-    width: 180px;
-    height: 50px;
-    transition: 0.2s;
-    display: block;
+    text-align:center;
+    transition: all 0.2s;
 }
 
 .discover_btn{
-    font-size:15px;
-    font-family:Arial;
-    width: 40px;
-    height:30px;
-    border-width:1px;
+    display:block;
+    padding:0.35em 1.2em;
+    border:0.1em solid rgba(255, 254, 234, 1);
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
     color:rgba(0, 0, 0, 1);
-    border-color:rgba(255, 254, 234, 1);
-    font-weight:bold;
-    border-top-left-radius:8px;
-    border-top-right-radius:8px;
-    border-bottom-left-radius:8px;
-    border-bottom-right-radius:8px;
-    background:rgba(255, 254, 234, 1);
-    transition: 0.2s;
-    display: block;
-}  .discover_btn:hover {
-    background: rgb(224, 219, 129);
-    width: 180px;
-    height: 50px;
-    transition: 0.2s;
-    display: block;
+    text-align:center;
+    transition: all 0.2s;
 }
 
 .options_btn{
-    font-size:15px;
-    font-family:Arial;
-    width: 40px;
-    height:30px;
-    border-width:1px;
+    display:block;
+    padding:0.35em 1.2em;
+    border:0.1em solid rgba(255, 254, 234, 1);
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
     color:rgba(0, 0, 0, 1);
-    border-color:rgba(255, 254, 234, 1);
-    font-weight:bold;
-    border-top-left-radius:8px;
-    border-top-right-radius:8px;
-    border-bottom-left-radius:8px;
-    border-bottom-right-radius:8px;
-    background:rgba(255, 254, 234, 1);
-    transition: 0.2s;
-    display: block;
-}  .options_btn:hover {
-    background: rgb(224, 219, 129);
-    width: 180px;
-    height: 50px;
-    transition: 0.2s;
-    display: block;
+    text-align:center;
+    transition: all 0.2s;
 }
