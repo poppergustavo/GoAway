@@ -124,3 +124,21 @@
     height: 100%;
     padding: 1%;
 }
+
+
+
+.upinfo{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.tripname{
+    display: block;
+    justify-content: flex-start;
+}
+.destination{
+    display: block;
+    justify-content: flex-start;
+}
